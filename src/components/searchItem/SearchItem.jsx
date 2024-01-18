@@ -31,7 +31,7 @@ import {Link} from 'react-router-dom';
           <button>8.9</button>
         </div>
         <div className="siDetailTexts">
-          <span className="siPrice">$112</span>
+          <span className="siPrice">₹98112</span>
           <span className="siTaxOp">Includes taxes and fees</span>
           
           <Link to="/hotels/:id"><button className="siCheckButton">See availability</button></Link>
